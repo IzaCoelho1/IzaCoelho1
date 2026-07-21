@@ -1,5 +1,10 @@
-## Hi there 👋
+## Olá! Eu sou a Iza Coelho ✨
 
+🎓 Sou formada em Administração Pública.
+
+💻 Atualmente estou em transição de carreira para a área de tecnologia, buscando desenvolver conhecimentos em programação, automação e desenvolvimento de software.
+
+🚀 Tenho interesse em inovação, produtividade e na criação de soluções que gerem impacto real.
 <!--
 **IzaCoelho1/IzaCoelho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
